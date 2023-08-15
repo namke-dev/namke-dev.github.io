@@ -1,8 +1,12 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: "Greeting"
+date: 2022-08-12
+categories: [blog]
+tags: [personal]
 ---
+
+## Greeting!
+
 Welcome to my corner of the internet, where I share my insights, experiences, and adventures in the world of data.
 
 
