@@ -1,5 +1,5 @@
 ---
-title: "Analyze on video game 🎮 - explore patterns and insights"
+title: "Analyze on video game - explore patterns and insights"
 date: 2022-08-12
 categories: [blog]
 tags: ['Data Analyst', 'Data Insight', 'EDA']
@@ -7,7 +7,7 @@ tags: ['Data Analyst', 'Data Insight', 'EDA']
 
 # Well... actually, what are we doing now?
 
-Last month I found a dataset on kaggle, this dataset provides a wealth of information about each game, including its title, release date, genre, platform(s), summary, among other data. That is enought for entry level like me to do some analyze. you can find it here => [video game dataset]("")
+Last month I found a dataset on kaggle, this dataset provides a wealth of information about each game, including its title, release date, genre, platform(s), summary, among other data. That is enought for entry level like me to do some analyze. you can find it here => [video game dataset]("https://www.kaggle.com/datasets/matheusfonsecachaves/popular-video-games")
 
 Something about this dataset
 - Over 60.000 row that cotain data about game that release since 1980 up to now
@@ -77,3 +77,7 @@ Examine if there's a correlation between game ratings and player engagement (pla
 # Trends Over Time:
 
 Observe how player engagement, wishlist counts, and other metrics change over time, potentially reflecting changes in gaming trends.
+
+# Conclution
+
+Thanks for your reading!
