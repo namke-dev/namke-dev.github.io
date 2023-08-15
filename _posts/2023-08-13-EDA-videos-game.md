@@ -7,7 +7,8 @@ tags: ['Data Analyst', 'Data Insight', 'EDA']
 
 # Well... actually, what are we doing now?
 
-Last month I found a dataset on kaggle, this dataset provides a wealth of information about each game, including its title, release date, genre, platform(s), summary, among other data. That is enought for entry level like me to do some analyze. you can find it here => [video game dataset]("https://www.kaggle.com/datasets/matheusfonsecachaves/popular-video-games")
+Last month I found a dataset on kaggle, this dataset provides a wealth of information about each game, including its title, release date, genre, platform(s), summary, among other data. That is enought for entry level like me to do some analyze. you can find it here =>
+<a href="https://www.kaggle.com/datasets/matheusfonsecachaves/popular-video-games">video game dataset</a>
 
 Something about this dataset
 - Over 60.000 row that cotain data about game that release since 1980 up to now
