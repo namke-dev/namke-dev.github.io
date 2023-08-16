@@ -1,8 +1,8 @@
 ---
 title: "Wellcome post - Let's do it 🎯🎯"
 date: 2022-08-12
-categories: [blog]
-tags: [personal]
+categories: [Communicate]
+tags: [Personal]
 ---
 
 ## Hello there, fellow data enthusiasts
