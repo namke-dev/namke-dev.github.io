@@ -1,10 +1,10 @@
 ---
-title: "&#129504;&#129504; Basics of Statistical math - Part 2"
+title: "Basics of statistical math - Part 2"
 date: 2022-08-16
 categories: [Theory]
 tags: ['Data Analyst']
 ---
-
+ > as a data analyst, there are several advanced statistical concepts that can greatly enhance your analytical skills and help you extract more valuable insights from data. 
 ## ANOVA (Analysis of Variance):
 
 Used to compare means of three or more groups to determine if there are significant differences among them.

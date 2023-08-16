@@ -1,5 +1,5 @@
 ---
-title: "&#129504; Basics of Statistical math - Part 1"
+title: "Basics of statistical math - Part 1"
 date: 2022-08-16
 categories: [Theory]
 tags: ['Data Analyst']
