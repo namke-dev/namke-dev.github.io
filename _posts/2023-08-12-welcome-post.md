@@ -1,5 +1,5 @@
 ---
-title: "Wellcome post - Let's do it 🎯🎯"
+title: "🎯 Wellcome post - Let's do it"
 date: 2022-08-12
 categories: [Communicate]
 tags: [Personal]
