@@ -1,5 +1,5 @@
 ---
-title: "Basics of statistical math &#129496;"
+title: "Basics of statistical math"
 date: 2022-08-16
 categories: [Theory]
 tags: ['Data Analyst']
